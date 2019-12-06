@@ -1,0 +1,793 @@
+INFO  time: initialize in 0.34s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\hello.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\hello.scala
+WARN  no build target: D:\Coding\scala_vscode\hello.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-cli_2.12/2.0.1/scalafmt-cli_2.12-2.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-cli_2.12/2.0.1/scalafmt-cli_2.12-2.0.1.pom
+https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-refl… 
+https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-refl… 
+https://repo1.maven.org/maven2/org/scalameta/scalafmt-cli_2.12/2.0.1/scalafmt… 
+https://repo1.maven.org/maven2/org/scalameta/scalafmt-cli_2.12/2.0.1/scalafmt… 
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-cli_2.12/2.0.1/scalafmt-cli_2.12-2.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-cli_2.12/2.0.1/scalafmt-cli_2.12-2.0.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-cli_2.12/2.0.1/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-cli_2.12/2.0.1/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/diffutils-1.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/martiansoftware/nailgun-server/0.9.1/nailgun-server-0.9.1.pom
+Downloading https://repo1.maven.org/maven2/com/martiansoftware/nailgun-server/0.9.1/nailgun-server-0.9.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-dynamic_2.12/2.0.1/scalafmt-dynamic_2.12-2.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.pom
+Downloading https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.5.0/scopt_2.12-3.5.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.5.0/scopt_2.12-3.5.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.5.0/scopt_2.12-3.5.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.12/2.0.1/scalafmt-core_2.12-2.0.1.pom
+Downloaded https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.5.0/scopt_2.12-3.5.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.12/2.0.1/scalafmt-core_2.12-2.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-dynamic_2.12/2.0.1/scalafmt-dynamic_2.12-2.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/diffutils-1.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/martiansoftware/nailgun-server/0.9.1/nailgun-server-0.9.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/
+Downloading https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/
+Downloaded https://repo1.maven.org/maven2/com/martiansoftware/nailgun-server/0.9.1/nailgun-server-0.9.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-dynamic_2.12/2.0.1/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.12/2.0.1/scalafmt-core_2.12-2.0.1.pom
+Downloading https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.5.0/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.12/2.0.1/scalafmt-core_2.12-2.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/martiansoftware/nailgun-server/0.9.1/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.12/2.0.1/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/
+Downloaded https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-dynamic_2.12/2.0.1/
+Downloaded https://repo1.maven.org/maven2/com/martiansoftware/nailgun-server/0.9.1/
+Downloaded https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.5.0/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.12/2.0.1/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/
+Downloading https://repo1.maven.org/maven2/com/martiansoftware/nailgun-all/0.9.1/nailgun-all-0.9.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/martiansoftware/nailgun-all/0.9.1/nailgun-all-0.9.1.pom
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/
+Downloaded https://repo1.maven.org/maven2/com/martiansoftware/nailgun-all/0.9.1/nailgun-all-0.9.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/martiansoftware/nailgun-all/0.9.1/nailgun-all-0.9.1.pom
+Downloading https://repo1.maven.org/maven2/com/martiansoftware/nailgun-all/0.9.1/
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/
+Downloaded https://repo1.maven.org/maven2/com/martiansoftware/nailgun-all/0.9.1/
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-interfaces/2.0.1/scalafmt-interfaces-2.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.12/0.8.3/metaconfig-core_2.12-0.8.3.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.12/0.8.3/metaconfig-core_2.12-0.8.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.12/0.8.3/metaconfig-typesafe-config_2.12-0.8.3.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.12/0.8.3/metaconfig-typesafe-config_2.12-0.8.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-interfaces/2.0.1/scalafmt-interfaces-2.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.12/4.2.0/scalameta_2.12-4.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.12/4.2.0/scalameta_2.12-4.2.0.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.12/0.8.3/metaconfig-core_2.12-0.8.3.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.1/coursier-small_2.12-1.3.1.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.12/0.8.3/metaconfig-core_2.12-0.8.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.1/coursier-small_2.12-1.3.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.12/0.8.3/metaconfig-typesafe-config_2.12-0.8.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-interfaces/2.0.1/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.12/4.2.0/scalameta_2.12-4.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/
+Downloaded https://repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.1/coursier-small_2.12-1.3.1.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.12/0.8.3/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.12/4.2.0/scalameta_2.12-4.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.12/4.2.0/
+Downloaded https://repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.1/coursier-small_2.12-1.3.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.1/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-interfaces/2.0.1/
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.12/0.8.3/metaconfig-typesafe-config_2.12-0.8.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.12/0.8.3/
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/
+Downloaded https://repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.1/
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.12/0.8.3/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.12/4.2.0/
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.12/0.8.3/
+Downloading https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.12/0.2.0/paiges-core_2.12-0.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.12/0.2.0/paiges-core_2.12-0.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.2.0/parsers_2.12-4.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.2.0/parsers_2.12-4.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.12.8/scalap-2.12.8.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.12.8/scalap-2.12.8.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.12/0.2.0/paiges-core_2.12-0.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.2.0/parsers_2.12-4.2.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.12.8/scalap-2.12.8.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.2.0/parsers_2.12-4.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.2.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.12/0.2.0/paiges-core_2.12-0.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.12/0.2.0/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.12/0.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.12.8/scalap-2.12.8.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.12.8/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.12.8/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.2.0/trees_2.12-4.2.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.2.0/trees_2.12-4.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.2.0/trees_2.12-4.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.2.0/trees_2.12-4.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/
+Downloading https://repo1.maven.org/maven2/org/scalameta/fastparse_2.12/1.0.1/fastparse_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.2.0/common_2.12-4.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.2.0/common_2.12-4.2.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/fastparse_2.12/1.0.1/fastparse_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/fastparse_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.2.0/common_2.12-4.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.2.0/common_2.12-4.2.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/fastparse_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.2.0/
+Downloading https://repo1.maven.org/maven2/org/scalameta/fastparse-utils_2.12/1.0.1/fastparse-utils_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.7/sourcecode_2.12-0.1.7.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/fastparse-utils_2.12/1.0.1/fastparse-utils_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/fastparse-utils_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.7/sourcecode_2.12-0.1.7.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.7/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/fastparse-utils_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.7/
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\FindLongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\FindLongLines.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/FindLongLines.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/FindLongLines.scala, 40, 40, 55)
+something's wrong: no file:///d%3A/Coding/scala_vscode/FindLongLines.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/FindLongLines.scala, 40, 40, 48)
+something's wrong: no file:///d%3A/Coding/scala_vscode/FindLongLines.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/FindLongLines.scala, 40, 40, 49)
+something's wrong: no file:///d%3A/Coding/scala_vscode/FindLongLines.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/FindLongLines.scala, 40, 40, 53)
+something's wrong: no file:///d%3A/Coding/scala_vscode/FindLongLines.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/FindLongLines.scala, 40, 40, 53)
+something's wrong: no file:///d%3A/Coding/scala_vscode/FindLongLines.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/FindLongLines.scala, 40, 40, 53)
+WARN  no build target: D:\Coding\scala_vscode\FindLongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.73s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\FileMatcher.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\FileMatcher.scala
+WARN  no build target: D:\Coding\scala_vscode\FileMatcher.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+11월 09, 2019 12:30:16 오전 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\FileMatcher.scala
+ERROR scalafmt: D:\Coding\scala_vscode\FileMatcher.scala:18: error: end of file expected but } found
+}
+^
+INFO  shutting down Metals
+INFO  time: initialize in 0.49s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\FileMatcher.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\FileMatcher.scala
+WARN  no build target: D:\Coding\scala_vscode\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\ArrayElement.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 26, 26, 41)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 26, 26, 34)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 26, 26, 35)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 26, 26, 37)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 26, 26, 38)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 26, 26, 39)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 26, 26, 39)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 26, 26, 39)
+WARN  no build target: D:\Coding\scala_vscode\ArrayElement.scala
+WARN  no build target: D:\Coding\scala_vscode\ArrayElement.scala
+WARN  no build target: D:\Coding\scala_vscode\ArrayElement.scala
+WARN  no build target: D:\Coding\scala_vscode\ArrayElement.scala
+WARN  no build target: D:\Coding\scala_vscode\ArrayElement.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 140, 140, 155)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 140, 140, 148)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 140, 140, 149)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 140, 140, 151)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 140, 140, 153)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 140, 140, 153)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 140, 140, 153)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ArrayElement.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/ArrayElement.scala, 146, 146, 159)
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ArrayElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\ArrayElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\ArrayElement.scala
+11월 09, 2019 10:02:49 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+11월 09, 2019 10:08:49 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:11:44 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.37s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\chapter10\ArrayElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.34s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+11월 09, 2019 10:17:55 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\ArrayElement.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.37s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+11월 09, 2019 10:20:09 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:20:12 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:20:16 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\ArrayElement.scala
+11월 09, 2019 10:20:36 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+11월 09, 2019 10:30:59 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:31:02 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+11월 09, 2019 10:31:42 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 135
+11월 09, 2019 10:32:07 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\UniformElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\UniformElement.scala
+11월 09, 2019 10:47:30 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.34s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\UniformElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\chapter10\ArrayElement.scala
+11월 09, 2019 10:51:05 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:51:07 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\UniformElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\UniformElement.scala
+11월 09, 2019 10:54:45 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:54:59 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:55:05 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:55:22 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 10:55:25 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: C:\Users\jjh13\AppData\Local\Temp\BNZ.5dc6cd36162b006a\Ex3.scala
+11월 09, 2019 11:31:39 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 11:31:40 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 11:31:40 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 11:31:40 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 11:31:40 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 11:31:41 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 11:31:41 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 11:31:42 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 09, 2019 11:31:42 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\stateful-objects\Ex1.scala
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\compo-inherit\Ex12.scala
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\compo-inherit\Ex11.scala
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\compo-inherit\Ex12.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 704, 704, 719)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 704, 704, 712)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 704, 704, 713)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 704, 704, 717)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 704, 704, 717)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 704, 704, 717)
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+11월 09, 2019 11:41:31 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+11월 09, 2019 11:41:31 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: no context found for source-file:///d%3A/Coding/scala_vscode/chapter10/LineElement.scala,line-1,offset=12
+scala.reflect.internal.FatalError: no context found for source-file:///d%3A/Coding/scala_vscode/chapter10/LineElement.scala,line-1,offset=12
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+11월 09, 2019 11:41:31 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+11월 09, 2019 11:41:32 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: no context found for source-file:///d%3A/Coding/scala_vscode/chapter10/LineElement.scala,line-1,offset=12
+scala.reflect.internal.FatalError: no context found for source-file:///d%3A/Coding/scala_vscode/chapter10/LineElement.scala,line-1,offset=12
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+ERROR scalafmt: D:\Coding\scala_vscode\chapter10\Element.scala:35: error: ; expected but class found
+  priate class ArrayElement(
+         ^
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+11월 09, 2019 11:58:23 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.35s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+11월 09, 2019 11:59:59 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 3133, 3133, 3148)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 3133, 3133, 3141)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 3133, 3133, 3142)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 3133, 3133, 3145)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 3133, 3133, 3146)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 3133, 3133, 3148)
+something's wrong: no file:///d%3A/Coding/scala_vscode/chapter10/Element.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/chapter10/Element.scala, 3133, 3133, 3146)
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.61s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\compo-inherit\Ex12.scala
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\compo-inherit\Spiral.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.38s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\compo-inherit\Ex12.scala
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\compo-inherit\LayoutElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\개인폴더\기타\DB랩\examples\compo-inherit\LayoutElement.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///d%3A/%EA%B0%9C%EC%9D%B8%ED%8F%B4%EB%8D%94/%EA%B8%B0%ED%83%80/DB%EB%9E%A9/examples/compo-inherit/LayoutElement.scala in Array[String]RangePosition(file:///d%3A/%EA%B0%9C%EC%9D%B8%ED%8F%B4%EB%8D%94/%EA%B8%B0%ED%83%80/DB%EB%9E%A9/examples/compo-inherit/LayoutElement.scala, 902, 902, 915)
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\UniformElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\ArrayElement.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\LineElement.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.4s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch13_ex1.scala
+INFO  no build target: using presentation compiler with only scala-library
+11월 11, 2019 8:57:29 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+11월 11, 2019 8:57:29 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target: D:\Coding\scala_vscode\ch13_ex1.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.4s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch13_ex1.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.4s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch13_ex1.scala
+11월 12, 2019 2:23:53 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 12, 2019 2:24:26 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+INFO  no build target: using presentation compiler with only scala-library
+11월 12, 2019 2:24:45 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 12, 2019 2:24:51 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 12, 2019 2:26:07 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 12, 2019 2:26:35 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 12, 2019 2:26:38 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 12, 2019 2:26:40 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+11월 12, 2019 2:26:44 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\chapter13\ch13_ex1.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.38s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\chapter13\ch13_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.44s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+11월 13, 2019 10:32:51 오전 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 35
+INFO  shutting down Metals
+INFO  time: initialize in 0.5s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\hello.scala
+WARN  no build target: D:\Coding\scala_vscode\FileMatcher.scala
+WARN  no build target: D:\Coding\scala_vscode\FindLongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\helloworld.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\helloworld.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/helloworld.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/helloworld.scala, 37, 37, 52)
+something's wrong: no file:///d%3A/Coding/scala_vscode/helloworld.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/helloworld.scala, 37, 37, 45)
+something's wrong: no file:///d%3A/Coding/scala_vscode/helloworld.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/helloworld.scala, 37, 37, 46)
+something's wrong: no file:///d%3A/Coding/scala_vscode/helloworld.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/helloworld.scala, 37, 37, 48)
+something's wrong: no file:///d%3A/Coding/scala_vscode/helloworld.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/helloworld.scala, 37, 37, 49)
+something's wrong: no file:///d%3A/Coding/scala_vscode/helloworld.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/helloworld.scala, 37, 37, 50)
+something's wrong: no file:///d%3A/Coding/scala_vscode/helloworld.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/helloworld.scala, 37, 37, 50)
+something's wrong: no file:///d%3A/Coding/scala_vscode/helloworld.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/helloworld.scala, 37, 37, 50)
+WARN  no build target: D:\Coding\scala_vscode\helloworld.scala
+WARN  no build target: D:\Coding\scala_vscode\helloworld.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\note.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 148, 148, 162)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 148, 148, 155)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 148, 148, 157)
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.47s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\note.scala
+INFO  no build target: using presentation compiler with only scala-library
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 527, 527, 541)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 527, 527, 534)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 527, 527, 534)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 527, 527, 534)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 539, 539, 553)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 539, 539, 546)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 539, 539, 546)
+something's wrong: no file:///d%3A/Coding/scala_vscode/note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/note.scala, 539, 539, 546)
+WARN  no build target: D:\Coding\scala_vscode\ch16_note.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch16_note.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 599, 599, 606)
+WARN  no build target: D:\Coding\scala_vscode\ch16_note.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.51s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch16_note.scala
+11월 21, 2019 10:24:29 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.59s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch16_note.scala
+11월 21, 2019 10:26:12 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.43s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch16_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 890, 890, 904)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 890, 890, 897)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 890, 890, 904)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 890, 890, 897)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 890, 890, 897)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 890, 890, 897)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1621, 1621, 1635)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1621, 1621, 1628)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1621, 1621, 1628)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1621, 1621, 1628)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1661, 1661, 1675)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1661, 1661, 1668)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1661, 1661, 1668)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1661, 1661, 1668)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1674, 1674, 1688)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1674, 1674, 1681)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1674, 1674, 1681)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 1674, 1674, 1681)
+11월 21, 2019 11:39:12 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+INFO  shutting down Metals
+INFO  time: initialize in 0.47s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch16_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2136, 2136, 2150)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2136, 2136, 2143)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2136, 2136, 2144)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2136, 2136, 2145)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2136, 2136, 2145)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2136, 2136, 2145)
+11월 22, 2019 4:18:34 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: null
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2186, 2186, 2200)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2186, 2186, 2193)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2186, 2186, 2195)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2186, 2186, 2195)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2186, 2186, 2195)
+11월 22, 2019 4:19:00 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: null
+11월 22, 2019 4:19:02 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: null
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2142, 2142, 2156)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2142, 2142, 2149)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2142, 2142, 2152)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2147, 2147, 2161)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2147, 2147, 2154)
+something's wrong: no file:///d%3A/Coding/scala_vscode/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/ch16_note.scala, 2147, 2147, 2156)
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch16_note.scala
+WARN  no build target: D:\Coding\scala_vscode\chapter16\ch16_note.scala
+WARN  no build target: D:\Coding\scala_vscode\helloworld.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\helloworld.scala
+WARN  no build target: D:\Coding\scala_vscode\FindLongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\helloworld.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.45s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals

@@ -17,7 +17,7 @@ object ch15_ex1{
     case true=>"truth"
     case "hello" => "hi!"
     case Nil => "the empty list"
-    case _: Expr => "something else"
+    case _ => "something else"
   }
 
 }

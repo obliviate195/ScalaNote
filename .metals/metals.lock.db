@@ -1,0 +1,6 @@
+#FileLock
+#Fri Dec 06 17:41:23 KST 2019
+hostName=localhost
+id=16eda5ee75d934dfff48ac24f69c5b3672ad2f40586
+method=file
+server=localhost\:9536
