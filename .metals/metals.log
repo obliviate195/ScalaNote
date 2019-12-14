@@ -810,3 +810,25 @@ WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most com
 WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
 WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
 INFO  shutting down Metals
+INFO  time: initialize in 0.54s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+12월 14, 2019 3:27:43 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: String index out of range: -1
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Iterator[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/spark_ch12.scala, 2055, 2055, 2073)
+something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Iterator[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/spark_ch12.scala, 2055, 2055, 2066)
+something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Iterator[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/spark_ch12.scala, 2055, 2055, 2067)
+something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Iterator[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/spark_ch12.scala, 2055, 2055, 2070)
+something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Iterator[String]RangePosition(file:///d%3A/Coding/scala_vscode/spark_ch12.scala, 2055, 2055, 2071)
+something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Iterator[String]RangePosition(file:///d%3A/Coding/scala_vscode/spark_ch12.scala, 2055, 2055, 2071)
+something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Iterator[String]RangePosition(file:///d%3A/Coding/scala_vscode/spark_ch12.scala, 2055, 2055, 2071)
+WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
