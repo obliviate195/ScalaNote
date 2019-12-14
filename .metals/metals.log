@@ -791,3 +791,22 @@ WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
 WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 INFO  shutting down Metals
+INFO  time: initialize in 0.38s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\ch15_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
+WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
+INFO  shutting down Metals
