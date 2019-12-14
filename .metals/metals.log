@@ -833,3 +833,7 @@ something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Itera
 something's wrong: no file:///d%3A/Coding/scala_vscode/spark_ch12.scala in Iterator[String]RangePosition(file:///d%3A/Coding/scala_vscode/spark_ch12.scala, 2055, 2055, 2071)
 WARN  no build target: D:\Coding\scala_vscode\spark_ch12.scala
 WARN  no build target: D:\Coding\scala_vscode\spark_note\spark_ch12.scala
+WARN  no build target: D:\Coding\scala_vscode\spark_ch13.scala
+WARN  no build target: D:\Coding\scala_vscode\spark_note\spark_ch13.scala
+WARN  no build target: D:\Coding\scala_vscode\spark_note\spark_ch13.scala
+WARN  no build target: D:\Coding\scala_vscode\spark_note\spark_ch13.scala
