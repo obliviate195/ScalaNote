@@ -837,3 +837,127 @@ WARN  no build target: D:\Coding\scala_vscode\spark_ch13.scala
 WARN  no build target: D:\Coding\scala_vscode\spark_note\spark_ch13.scala
 WARN  no build target: D:\Coding\scala_vscode\spark_note\spark_ch13.scala
 WARN  no build target: D:\Coding\scala_vscode\spark_note\spark_ch13.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch2_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch2_note.scala
+12월 14, 2019 4:49:42 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+12월 14, 2019 4:49:42 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch2_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\ch2_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\hello.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\hello.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\helloarg.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\helloarg.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\helloarg.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\printargs.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\printargs.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\echoargs.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\echoargs.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\pa.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\pa.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\pa.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\pa.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\pa.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\forargs.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter2\forargs.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\ch3_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\ch3_note.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 128, 128, 143)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 128, 128, 136)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 128, 128, 137)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 128, 128, 140)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 128, 128, 141)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 128, 128, 141)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 128, 128, 141)
+12월 14, 2019 5:58:31 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: String index out of range: -1
+12월 14, 2019 6:16:38 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: String index out of range: -1
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\ch3_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\ch3_note.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+12월 14, 2019 6:49:01 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: String index out of range: -1
+12월 14, 2019 6:52:02 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 5498
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2030, 2030, 2045)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2030, 2030, 2039)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2030, 2030, 2042)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2030, 2030, 2043)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2030, 2030, 2043)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2030, 2030, 2043)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2179, 2179, 2194)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2179, 2179, 2187)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2179, 2179, 2188)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2179, 2179, 2192)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2179, 2179, 2192)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2179, 2179, 2192)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2272, 2272, 2287)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2272, 2272, 2280)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2272, 2272, 2281)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2272, 2272, 2285)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2272, 2272, 2287)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2272, 2272, 2285)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2272, 2272, 2285)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2272, 2272, 2285)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2387, 2387, 2402)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2387, 2387, 2396)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2387, 2387, 2397)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2387, 2387, 2400)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2387, 2387, 2400)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala in Array[String]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter3/ch3_note.scala, 2387, 2387, 2400)
+12월 14, 2019 7:03:26 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+12월 14, 2019 7:04:36 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\ch3_note.scala
+12월 14, 2019 7:07:27 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+12월 14, 2019 7:12:05 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\ch3_note.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.6s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\ch3_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\countchars1.scala
+ERROR scalafmt: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\countchars1.scala:2: error: expected class or object definition
+  if(args.length>0){
+  ^
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\countchars1.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\ch3_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\countchars1.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\countchars2.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\countchars2.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\countchars1.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter3\countchars1.scala
+INFO  shutting down Metals
