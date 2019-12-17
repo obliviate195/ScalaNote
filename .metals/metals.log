@@ -7036,3 +7036,892 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\FallWinterSprintSummer.scala
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\FallWinterSpringSummer.scala
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\FallWinterSpringSummer.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch5_note.scala
+12월 16, 2019 10:07:58 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 2252
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch5_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch5_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch5_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.45s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch5_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\ch4_note.scala
+12월 17, 2019 3:08:51 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:163)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\ChecksumAccumulator.scala
+12월 17, 2019 3:09:35 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+12월 17, 2019 3:09:36 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+12월 17, 2019 3:09:36 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+12월 17, 2019 4:09:18 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+12월 17, 2019 4:09:19 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\ChecksumAccumulator.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+12월 17, 2019 4:10:25 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+12월 17, 2019 4:10:29 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+12월 17, 2019 4:10:29 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\ChecksumAccumulator.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\ChecksumAccumulator.scala
+12월 17, 2019 4:17:52 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+12월 17, 2019 4:18:30 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:647)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1977)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying og.categories.intersect[String](ig.categories).nonEmpty
+found that og.categories.intersect[String](ig.categories).nonEmpty is false
+where ig = Literal
+where og = InfixTyp(&)
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:15)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.groupNeedsParens$1(TreeSyntax.scala:95)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:107)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.p(TreeSyntax.scala:106)
+	at scala.meta.internal.prettyprinters.TreeSyntax$SyntaxInstances.$anonfun$syntaxTree$1(TreeSyntax.scala:409)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.internal.prettyprinters.TreeSyntax$.$anonfun$apply$1(TreeSyntax.scala:718)
+	at scala.meta.prettyprinters.Syntax$$anon$1.apply(Syntax.scala:9)
+	at scala.meta.prettyprinters.Api$XtensionSyntax.syntax(Api.scala:11)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:188)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.newOwner$1(DocumentSymbolProvider.scala:92)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:145)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1(SimpleTraverser.scala:5)
+	at scala.meta.transversers.SimpleTraverser.$anonfun$apply$1$adapted(SimpleTraverser.scala:5)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.meta.transversers.SimpleTraverser.apply(SimpleTraverser.scala:5)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.continue$1(DocumentSymbolProvider.scala:88)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.apply(DocumentSymbolProvider.scala:109)
+	at scala.meta.internal.metals.DocumentSymbolProvider$SymbolTraverser.symbols(DocumentSymbolProvider.scala:40)
+	at scala.meta.internal.metals.DocumentSymbolProvider.documentSymbols(DocumentSymbolProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.documentSymbolResult(MetalsLanguageServer.scala:1669)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentSymbol$1(MetalsLanguageServer.scala:832)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter4\ChecksumAccumulator.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+12월 17, 2019 5:07:47 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.34s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+12월 17, 2019 5:08:36 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals

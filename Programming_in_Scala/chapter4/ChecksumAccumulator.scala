@@ -28,7 +28,5 @@ class ChecksumAccumulator{
   /* def checksum(): Int={
     return ~(sum&0xFF)+1
   } */
-  def checksum(): Int={
-    ~(sum & 0xFF)+1
-  }
+  def checksum(): Int = ~(sum & 0xFF) + 1
 }
