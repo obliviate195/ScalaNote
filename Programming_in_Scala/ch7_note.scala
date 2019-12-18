@@ -1,3 +1,4 @@
+//chapter7 내장 제어 구문
 object ch7_note{
   val filename=
     if (!args.isEmpty) args(0)
