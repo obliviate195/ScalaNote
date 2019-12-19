@@ -1,5 +1,6 @@
 //chapter7 내장 제어 구문
 object ch7_note{
+  //if-else 구문은 값이다.
   val filename=
     if (!args.isEmpty) args(0)
     else "default.txt"

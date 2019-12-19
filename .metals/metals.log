@@ -8107,3 +8107,5 @@ java.lang.NullPointerException
 	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
 
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch7_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch7_note.scala
+INFO  shutting down Metals
