@@ -29,14 +29,15 @@ object ch8_note{
   //클로저
   var more=1
   val addMore=(x:Int) => x+more
-  addMore(10)
+  addMore(10) //11
   more=9999
-  addMore(10)
+  addMore(10) //10009
 
   var sum=0
   someNumbers.foreach(sum+= _)
 
   def makeIncreaser(more: Int) = (x:Int) => x+more
+  //함수 리터럴 생성
   val inc1=makeIncreaser(1)
   val inc9999=makeIncreaser(9999)
   

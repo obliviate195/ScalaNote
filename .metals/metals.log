@@ -8109,3 +8109,29 @@ java.lang.NullPointerException
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch7_note.scala
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch7_note.scala
 INFO  shutting down Metals
+INFO  time: initialize in 0.41s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch7_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch7_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch8_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch7_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter8\ch8_note.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\FindLongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\FindLongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter8\ch8_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter8\LongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter8\FindLongLines.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter8\ch8_note.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.46s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter8\ch8_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter8\ch8_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter8\ch8_note.scala
+INFO  shutting down Metals
