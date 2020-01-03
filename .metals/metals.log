@@ -8515,3 +8515,30 @@ WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch12_note.sca
 INFO  no build target: using presentation compiler with only scala-library
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch12_note.scala
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch6_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_ex1.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch12_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala
+ERROR scalafmt: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala:5: error: illegal start of definition
+package bobsrockets{
+^
+ERROR scalafmt: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala:5: error: illegal start of definition
+package bobsrockets{
+^
+ERROR scalafmt: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala:5: error: illegal start of definition
+package bobsrockets{
+^
+ERROR scalafmt: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala:5: error: illegal start of definition
+package bobsrockets{
+^
+ERROR scalafmt: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala:5: error: illegal start of definition
+package bobsrockets{
+^
+ERROR scalafmt: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala:5: error: illegal start of definition
+package bobsrockets{
+^
+1월 03, 2020 3:04:46 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala
