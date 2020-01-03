@@ -1,4 +1,3 @@
-import java.awt.Point
 //chapter12 트레이트
 
 object ch12_note {
