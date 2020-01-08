@@ -8542,3 +8542,390 @@ java.lang.NullPointerException
 	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
 
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\Fruits.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\Fruits.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\Fruits.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\scala_package.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala
+1월 03, 2020 3:38:01 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1월 03, 2020 3:38:01 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\scala_package.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\Fruits.scala
+1월 03, 2020 3:40:49 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1월 03, 2020 3:40:49 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+1월 03, 2020 3:50:54 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1월 03, 2020 3:50:54 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+1월 03, 2020 3:59:38 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1월 03, 2020 3:59:39 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+1월 03, 2020 3:59:45 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1월 03, 2020 3:59:45 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter13\ch13_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter14\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter14\ElementSuite.scala
+1월 03, 2020 4:43:35 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1월 03, 2020 4:43:35 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter14\ElementSuite.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter14\Element.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.39s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter14\ElementSuite.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter14\Element.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.43s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter14\ElementSuite.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter14\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch15_ex1.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch15_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch15_note.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.37s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch15_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala in Map[_,_CURSOR_]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala, 2099, 2099, 2114)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala in Map[_,_CURSOR_]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala, 2099, 2099, 2115)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala in Map[_,_]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala, 2099, 2099, 2108)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala in Map[_,_]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala, 2099, 2099, 2108)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala in Map[_,_]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/ch15_note.scala, 2099, 2099, 2108)
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch15_note.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.46s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch15_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ch15_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Expr.scala
+1월 07, 2020 2:12:12 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: java.lang.IndexOutOfBoundsException: 1
+java.util.concurrent.CompletionException: java.lang.IndexOutOfBoundsException: 1
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:659)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IndexOutOfBoundsException: 1
+	at scala.reflect.internal.util.BatchSourceFile.lineToOffset(SourceFile.scala:186)
+	at scala.meta.internal.pc.AutoImports.autoImportPosition(AutoImports.scala:57)
+	at scala.meta.internal.pc.AutoImports.autoImportPosition$(AutoImports.scala:34)
+	at scala.meta.internal.pc.MetalsGlobal.autoImportPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.importPosition$lzycompute$1(CompletionProvider.scala:58)
+	at scala.meta.internal.pc.CompletionProvider.importPosition$1(CompletionProvider.scala:58)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:126)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:459)
+	at scala.collection.Iterator.toStream(Iterator.scala:1415)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1414)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1429)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1415)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1171)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1161)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656)
+	... 9 more
+
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\pattern-matching\ExprFormatter.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\pattern-matching\Misc.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\pattern-matching\Test.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\compo-inherit\LayoutElement.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ch15_note.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+1월 07, 2020 2:20:29 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1월 07, 2020 2:20:29 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: no context found for source-file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter15/ch15_note.scala,line-1,offset=17
+scala.reflect.internal.FatalError: no context found for source-file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter15/ch15_note.scala,line-1,offset=17
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+1월 07, 2020 2:34:25 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 803
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+1월 07, 2020 3:15:17 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+1월 07, 2020 3:18:46 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+1월 07, 2020 3:18:55 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+1월 07, 2020 3:21:06 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+1월 07, 2020 3:21:16 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+1월 07, 2020 3:22:50 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+1월 07, 2020 3:22:58 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: String index out of range: -2
+java.lang.StringIndexOutOfBoundsException: String index out of range: -2
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Express.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Express.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter10\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\compo-inherit\LayoutElement.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\pattern-matching\ExprFormatter.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Express.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Express.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Express.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\pattern-matching\Test.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Express.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\pattern-matching\ExprFormatter.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+INFO  shutting down Metals
