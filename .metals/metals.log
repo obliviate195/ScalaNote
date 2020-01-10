@@ -8929,3 +8929,189 @@ WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Exp
 WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\pattern-matching\ExprFormatter.scala
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
 INFO  shutting down Metals
+INFO  time: initialize in 0.56s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\ExprFormatter.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\compo-inherit\LayoutElement.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: D:\Coding\scala_vscode\helloworld.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Express.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\pattern-matching\Test.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Element.scala
+1월 08, 2020 12:29:38 오후 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.37s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch12_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter15\Element.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+1월 08, 2020 1:33:20 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: String index out of range: -1
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 867, 867, 881)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 867, 867, 874)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 867, 867, 875)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 867, 867, 876)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 867, 867, 876)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 867, 867, 876)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 984, 984, 998)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 984, 984, 991)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 984, 984, 993)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 999, 999, 1008)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1196, 1196, 1210)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1196, 1196, 1203)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1196, 1196, 1205)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1324, 1324, 1338)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1324, 1324, 1331)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1324, 1324, 1333)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1324, 1324, 1333)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1324, 1324, 1333)
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1572, 1572, 1586)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1572, 1572, 1579)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1572, 1572, 1579)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1572, 1572, 1579)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1585, 1585, 1599)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1585, 1585, 1592)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1585, 1585, 1592)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 1585, 1585, 1592)
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+1월 08, 2020 4:15:10 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 3357
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+1월 08, 2020 4:32:56 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 4034
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3322, 3322, 3336)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3322, 3322, 3329)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3322, 3322, 3329)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3322, 3322, 3329)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3365, 3365, 3379)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3365, 3365, 3372)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3365, 3365, 3372)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3365, 3365, 3372)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3378, 3378, 3392)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3378, 3378, 3385)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3378, 3378, 3385)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3378, 3378, 3385)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3405, 3405, 3412)
+1월 08, 2020 5:21:57 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+1월 08, 2020 5:21:57 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+1월 08, 2020 5:23:57 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\lists\InsertionSort2.scala
+WARN  no build target: D:\Downloads\progInScalaExamples2Ed\examples\lists\Misc.scala
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 3362, 3362, 3369)
+1월 08, 2020 5:25:48 오후 scala.meta.internal.pc.Completions completionPosition
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1034)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:403)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+1월 08, 2020 5:25:49 오후 scala.meta.internal.pc.Completions completionPosition
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1034)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:403)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+1월 08, 2020 5:25:49 오후 scala.meta.internal.pc.Completions completionPosition
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1034)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:403)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+1월 08, 2020 5:25:49 오후 scala.meta.internal.pc.Completions completionPosition
+심각: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:1034)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:472)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:393)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:385)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:370)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:403)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+1월 08, 2020 5:36:05 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: String index out of range: -1
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+INFO  shutting down Metals
