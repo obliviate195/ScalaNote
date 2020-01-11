@@ -9115,3 +9115,125 @@ WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most com
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
 WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
 INFO  shutting down Metals
+INFO  time: initialize in 0.4s
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+INFO  no build target: using presentation compiler with only scala-library
+1월 10, 2020 2:08:58 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 15
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5169, 5169, 5183)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5169, 5169, 5176)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5174, 5174, 5188)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5174, 5174, 5181)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5174, 5174, 5183)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[List[Int]]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5169, 5169, 5184)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[List[Int]]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5169, 5169, 5184)
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+1월 10, 2020 2:35:22 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 1247
+1월 10, 2020 2:35:22 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 1250
+1월 10, 2020 2:35:22 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 1252
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+1월 10, 2020 2:56:51 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 1691
+1월 10, 2020 2:57:00 오후 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+정보: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1월 10, 2020 2:57:01 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5377, 5377, 5391)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5377, 5377, 5384)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5377, 5377, 5386)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5377, 5377, 5386)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5377, 5377, 5386)
+1월 10, 2020 2:57:18 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: null
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5432, 5432, 5446)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5432, 5432, 5439)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5432, 5432, 5441)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5432, 5432, 5441)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[Int]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5432, 5432, 5441)
+1월 10, 2020 2:57:48 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: null
+1월 10, 2020 2:58:19 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: null
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5551, 5551, 5565)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5551, 5551, 5558)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5551, 5551, 5561)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5556, 5556, 5570)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5556, 5556, 5563)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5556, 5556, 5563)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5556, 5556, 5563)
+1월 10, 2020 3:02:36 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 2103
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[<error>]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5695, 5695, 5709)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5695, 5695, 5702)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5695, 5695, 5702)
+something's wrong: no file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala in List[T]RangePosition(file:///d%3A/Coding/scala_vscode/Programming_in_Scala/chapter16/ch16_note.scala, 5695, 5695, 5702)
+1월 10, 2020 3:10:29 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 2360
+1월 10, 2020 3:11:07 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: null
+1월 10, 2020 3:11:10 오후 scala.meta.internal.pc.CompletionProvider expected$1
+경고: null
+1월 10, 2020 3:11:15 오후 scala.meta.internal.pc.CompilerAccess handleError
+심각: String index out of range: -6
+java.lang.StringIndexOutOfBoundsException: String index out of range: -6
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:265)
+	at scala.reflect.internal.Trees.$anonfun$itraverse$3(Trees.scala:1367)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2515)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1367)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1238)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2483)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:339)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:335)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:312)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:877)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:876)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:312)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:311)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:877)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:876)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:311)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+1월 10, 2020 3:18:19 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 2961
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'D:\Coding\scala_vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\chapter16\ch16_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch17_note.scala
+WARN  no build target: D:\Coding\scala_vscode\Programming_in_Scala\ch17_note.scala
+INFO  shutting down Metals
