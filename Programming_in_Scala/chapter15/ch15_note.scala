@@ -124,6 +124,9 @@ object ch15_note{
   for ((country, city) <- capitals)
     println("The capital of "+ country +" is "+city)
 
+  //Option: 선택적인 값 표현
+  //x가 실제 값이라면 Some(x) 형태로 값이 있음을 표현
+  //값이 없으면 None이라는 객체가 된다.
   val results = List(Some("apple"), None, Some("orange"))
   for (Some(fruit) <- results) println(fruit)
 }
